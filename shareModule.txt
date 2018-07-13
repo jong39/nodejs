@@ -1,0 +1,1 @@
+shareMovies.js가 class file이라고 보면 될것이고 johnny, sandy.js가 instacne를 만들는 파일 들이고 그것들을 import해서 sharedModule.js가 frontend에서 presentation하는 것으로 보면 됨 

@@ -1,0 +1,2 @@
+require('./johnny');
+require('./sandy');

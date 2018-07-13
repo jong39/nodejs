@@ -1,3 +1,5 @@
+// module export
+
 module.exports = {
 
 	printAvatar: function(){

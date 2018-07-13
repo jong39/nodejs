@@ -4,5 +4,5 @@ var movies = require('./movies');
 //movies.avatar();
 
 
-movies.printCappie();
+movies.printAvatar();
 console.log(movies.favMovie);
