@@ -1,6 +1,7 @@
-shareMovies.js가 class file이라고 보면 될것이고 johnny, sandy.js가 instacne를 만들는 
+1) shareMovies.js가 class file이라고 보면 될것이고 johnny, sandy.js가 instacne를 만들는 
 파일 들이고 그것들을 import해서 sharedModule.js가 frontend에서 presentation하는 것으로 보면 됨 
 
-
+2) sharedModule.js를 실행하면 sandy의 favMovie를 설정하지 않았는데도 johnny의 값을 그대로 결과
+치에 나온다. 이러한 문제를 방지하기 위해서 Object Factory라는 방법을 쓴다. 
 
 
