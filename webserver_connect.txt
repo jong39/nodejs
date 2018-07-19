@@ -1,0 +1,7 @@
+Connect
+
+- Server framework
+- A lot of built-in functionalities
+- Installation:
+	- npm install connect
+
