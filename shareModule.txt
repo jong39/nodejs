@@ -5,5 +5,5 @@
 치에 나온다. 이러한 문제를 방지하기 위해서 Object Factory라는 방법을 쓴다. 
 
 
-3) Core module을 require할때는 ("./") 를 생략한다. 
+3) Core module을 require할때는 ("./") 를 생략한다.  
 
